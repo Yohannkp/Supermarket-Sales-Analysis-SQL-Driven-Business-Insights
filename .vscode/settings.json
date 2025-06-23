@@ -1,0 +1,19 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQLITE",
+            "group": "Yohann",
+            "database": "supermarket.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Projet sql",
+            "group": "Yohann",
+            "database": "projet_data.db"
+        }
+    ]
+}
